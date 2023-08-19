@@ -1,0 +1,5020 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-08-19T05:43:35Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/178105038",
+        "bicycle": "no",
+        "name": "ул. Добри Немиров",
+        "name:en": "Dobri Nemirov St",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2586799,
+          42.7174178
+        ]
+      },
+      "id": "node/178105038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214828983",
+        "name": "ул. Сан Стефано",
+        "name:en": "San Stefano St",
+        "railway": "subway_entrance",
+        "ref": "8",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3373062,
+          42.6911249
+        ]
+      },
+      "id": "node/214828983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290873250",
+        "bicycle": "no",
+        "name": "бул. Джавахарлал Неру",
+        "name:en": "Jawaharlal Nehru Blvd",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2682277,
+          42.7122104
+        ]
+      },
+      "id": "node/290873250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290873251",
+        "bicycle": "no",
+        "name": "Западен парк",
+        "name:en": "Zapaden park",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2714564,
+          42.7110068
+        ]
+      },
+      "id": "node/290873251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290873252",
+        "bicycle": "no",
+        "name": "ул. Орион",
+        "name:en": "Orion St",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2701509,
+          42.7116174
+        ]
+      },
+      "id": "node/290873252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290873253",
+        "bicycle": "no",
+        "name": "Люлин X",
+        "name:en": "Lyulin X",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2685708,
+          42.7126029
+        ]
+      },
+      "id": "node/290873253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290876069",
+        "bicycle": "no",
+        "name": "ж.к. Западен парк",
+        "name:en": "Zapaden park",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2842657,
+          42.7056717
+        ]
+      },
+      "id": "node/290876069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290876070",
+        "bicycle": "no",
+        "name": "бул. Т. Александров",
+        "name:en": "T. Aleksandrov Blvd",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2852954,
+          42.7055525
+        ]
+      },
+      "id": "node/290876070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290876075",
+        "bicycle": "no",
+        "name": "бул. Вардар",
+        "name:en": "Vardar Blvd",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2840781,
+          42.7064161
+        ]
+      },
+      "id": "node/290876075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290876076",
+        "bicycle": "no",
+        "name": "ж.к. Гевгелийски",
+        "name:en": "Geveliyski",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2826613,
+          42.7069334
+        ]
+      },
+      "id": "node/290876076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290876088",
+        "bicycle": "no",
+        "name": "ул. Булина ливада",
+        "name:en": "Bulina livada St",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2826691,
+          42.7062074
+        ]
+      },
+      "id": "node/290876088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290876112",
+        "bicycle": "no",
+        "name": "ж.к. Люлин VII",
+        "name:en": "Lyulin VII",
+        "railway": "subway_entrance",
+        "ref": "8",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2698737,
+          42.7113426
+        ]
+      },
+      "id": "node/290876112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290876736",
+        "bicycle": "no",
+        "name": "бул. Ал. Стамболийски",
+        "name:en": "Al. Stamboliyski Blvd",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3004179,
+          42.7011509
+        ]
+      },
+      "id": "node/290876736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290876776",
+        "bicycle": "no",
+        "name": "бул. Д. Петков",
+        "name:en": "D. Petkov Blvd",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3002977,
+          42.7016798
+        ]
+      },
+      "id": "node/290876776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290877034",
+        "bicycle": "no",
+        "name": "ул. Пиротска",
+        "name:en": "Pirotska St",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes",
+        "wheelchair:description": "Има релси за колички"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3104097,
+          42.7001712
+        ]
+      },
+      "id": "node/290877034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290877087",
+        "bicycle": "no",
+        "name": "ул. Опълченска",
+        "name:en": "Opalchenska St",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes",
+        "wheelchair:description": "Има релси за колички"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3099908,
+          42.7002732
+        ]
+      },
+      "id": "node/290877087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290877098",
+        "bicycle": "no",
+        "name": "бул. Т. Александров",
+        "name:en": "T. Aleksandrov Blvd",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes",
+        "wheelchair:description": "Има релси за колички"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3097082,
+          42.6998589
+        ]
+      },
+      "id": "node/290877098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290877099",
+        "bicycle": "no",
+        "name": "бул. Ал. Стамболийски",
+        "name:en": "Al. Stamboliyski Blvd",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes",
+        "wheelchair:description": "Има асансьор"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3102456,
+          42.6995629
+        ]
+      },
+      "id": "node/290877099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290877364",
+        "bicycle": "no",
+        "name": "ул. Странджа",
+        "name:en": "Strandzha St",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3121436,
+          42.6993858
+        ]
+      },
+      "id": "node/290877364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344193774",
+        "name": "ж.к. Стрелбище",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3020798,
+          42.6790248
+        ]
+      },
+      "id": "node/344193774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355537080",
+        "bicycle": "no",
+        "name": "Търговски център",
+        "name:en": "Shopping centre",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2707884,
+          42.7107283
+        ]
+      },
+      "id": "node/355537080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/365396879",
+        "name": "Парк Здраве",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3028155,
+          42.6796171
+        ]
+      },
+      "id": "node/365396879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/365396895",
+        "name": "ж.к. Иван Вазов",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3029844,
+          42.6792146
+        ]
+      },
+      "id": "node/365396895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474388286",
+        "bicycle": "no",
+        "name": "ж.к. Люлин VI",
+        "name:en": "Lyulin VI",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2571041,
+          42.7181704
+        ]
+      },
+      "id": "node/474388286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474389484",
+        "bicycle": "no",
+        "name": "ж.к. Люлин VIII",
+        "name:en": "Lyulin VIII",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2572185,
+          42.7187908
+        ]
+      },
+      "id": "node/474389484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474389487",
+        "bicycle": "no",
+        "name": "ж.к. Люлин VIII",
+        "name:en": "Lyulin VIII",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2575573,
+          42.7186161
+        ]
+      },
+      "id": "node/474389487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474390910",
+        "bicycle": "no",
+        "name": "ул. Ген. Асен Николов",
+        "name:en": "Gen. Asen Nikolov St",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2590166,
+          42.7178207
+        ]
+      },
+      "id": "node/474390910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474390912",
+        "bicycle": "no",
+        "name": "ул. Ген. Асен Николов",
+        "name:en": "Gen. Asen Nikolov St",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2593864,
+          42.7176281
+        ]
+      },
+      "id": "node/474390912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/683400018",
+        "door": "sliding",
+        "name": "бул. Св. Климент Охридски",
+        "name:en": "Sveti Kliment Ohridski Blvd",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3580225,
+          42.6625458
+        ]
+      },
+      "id": "node/683400018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685725086",
+        "door": "sliding",
+        "name": "ул. Въртопо",
+        "name:en": "Vartopo St",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.364363,
+          42.6585926
+        ]
+      },
+      "id": "node/685725086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/701099272",
+        "name": "спирка Централна гара - Хр. Ботев",
+        "name:en": "Central Railway Station - Hr. Botev stop",
+        "railway": "subway_entrance",
+        "ref": "11",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3190869,
+          42.7110232
+        ]
+      },
+      "id": "node/701099272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/701099401",
+        "name": "спирка Централна гара - Хр. Ботев",
+        "name:en": "Central Railway Station - Hr. Botev stop",
+        "railway": "subway_entrance",
+        "ref": "11",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3189406,
+          42.7110735
+        ]
+      },
+      "id": "node/701099401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/702098732",
+        "name": "Трамвайна спирка (Борово)",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3020008,
+          42.6792685
+        ]
+      },
+      "id": "node/702098732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/772644480",
+        "bicycle": "no",
+        "name": "бул. Царица Йоанна",
+        "name:en": "Tsaritsa Yoanna Blvd",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2706214,
+          42.7113349
+        ]
+      },
+      "id": "node/772644480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069090666",
+        "bicycle": "no",
+        "name": "ж.к. Люлин I",
+        "name:en": "Lyulin I",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2610233,
+          42.726593
+        ]
+      },
+      "id": "node/1069090666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069090673",
+        "bicycle": "no",
+        "name": "ж.к. Люлин I",
+        "name:en": "Lyulin I",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2608181,
+          42.7260364
+        ]
+      },
+      "id": "node/1069090673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069090685",
+        "bicycle": "no",
+        "name": "ж.к. Люлин VIII",
+        "name:en": "Lyulin VIIII",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2618825,
+          42.726164
+        ]
+      },
+      "id": "node/1069090685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1286896487",
+        "name": "ж.к. Изгрев",
+        "name:en": "Izgrev",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3509338,
+          42.6712876
+        ]
+      },
+      "id": "node/1286896487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1548971434",
+        "bicycle": "no",
+        "name": "бул. К. Величков",
+        "name:en": "K. Velichkov Blvd",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2985833,
+          42.7019934
+        ]
+      },
+      "id": "node/1548971434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1548971439",
+        "bicycle": "no",
+        "name": "бул. К. Величков",
+        "name:en": "K. Velichkov Blvd",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2980706,
+          42.7020931
+        ]
+      },
+      "id": "node/1548971439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1549025556",
+        "bicycle": "no",
+        "name": "ул. Отец Паисий",
+        "name:en": "Otets Paisiy St",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3122521,
+          42.699681
+        ]
+      },
+      "id": "node/1549025556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1549025557",
+        "access": "yes",
+        "highway": "elevator",
+        "opening_hours": "24/7",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3103231,
+          42.6997385
+        ]
+      },
+      "id": "node/1549025557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1558316624",
+        "name": "Трамвайна спирка (Център)",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.302921,
+          42.6793658
+        ]
+      },
+      "id": "node/1558316624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699849458",
+        "name": "пл. Орлов мост",
+        "name:en": "Orlov most Sq",
+        "railway": "subway_entrance",
+        "ref": "10",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3368834,
+          42.6906262
+        ]
+      },
+      "id": "node/1699849458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699936451",
+        "bicycle": "no",
+        "name": "бул. Т. Александров",
+        "name:en": "T. Aleksandrov Blvd",
+        "railway": "subway_entrance",
+        "ref": "9",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3213378,
+          42.6976026
+        ]
+      },
+      "id": "node/1699936451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1746089699",
+        "bicycle": "no",
+        "name": "Президентство",
+        "name:en": "Presidency",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.324118,
+          42.6969173
+        ]
+      },
+      "id": "node/1746089699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1746089702",
+        "name": "Ларго",
+        "name:en": "Largo",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3241766,
+          42.6974887
+        ]
+      },
+      "id": "node/1746089702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1746089709",
+        "bicycle": "no",
+        "name": "пл. Независимост",
+        "name:en": "Nezavisimost Sq",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3243977,
+          42.6977343
+        ]
+      },
+      "id": "node/1746089709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1746106128",
+        "barrier": "height_restrictor",
+        "maxheight": "below_default",
+        "name": "бул. В. Левски",
+        "name:en": "V. Levski Blvd",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3343939,
+          42.6925691
+        ]
+      },
+      "id": "node/1746106128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1746106129",
+        "name": "пл. Народно събрание",
+        "name:en": "Narodno sabranie Sq",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "start_date": "2009-09-07",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3341215,
+          42.6930613
+        ]
+      },
+      "id": "node/1746106129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1746106130",
+        "name": "Св. Александър Невски",
+        "name:en": "Sveti Aleksandar Nevski",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3341455,
+          42.6933941
+        ]
+      },
+      "id": "node/1746106130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1805512656",
+        "name": "бул. Св. Климент Охридски",
+        "name:en": "Sveti Kliment Ohridski Blvd",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3581183,
+          42.662531
+        ]
+      },
+      "id": "node/1805512656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1805512661",
+        "name": "ж.к. Мусагеница",
+        "name:en": "Musagenitsa",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3585845,
+          42.6625873
+        ]
+      },
+      "id": "node/1805512661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1976182855",
+        "bicycle": "no",
+        "name": "ж.к. Люлин X",
+        "name:en": "Lyulin X",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2682236,
+          42.7127947
+        ]
+      },
+      "id": "node/1976182855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1976182856",
+        "bicycle": "no",
+        "name": "бул. Джавахарлал Неру",
+        "name:en": "Jawaharlal Nehru Blvd",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2678523,
+          42.7124178
+        ]
+      },
+      "id": "node/1976182856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2083589135",
+        "name": "кв. Модерно предградие",
+        "name:en": "Moderno predgradie",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2629211,
+          42.7274142
+        ]
+      },
+      "id": "node/2083589135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2083597719",
+        "name": "бул. Панчо Владигеров",
+        "name:en": "Pancho Vladigerov Blvd",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2626033,
+          42.7277444
+        ]
+      },
+      "id": "node/2083597719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164036855",
+        "name": "СУ Св. Климент Охридски",
+        "name:en": "SU Sveti Kliment Ohridski",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "start_date": "2009-09-07",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3346029,
+          42.693099
+        ]
+      },
+      "id": "node/2164036855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288343514",
+        "name": "пл. Орлов мост",
+        "name:en": "Orlov most Sq",
+        "railway": "subway_entrance",
+        "ref": "9",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3372463,
+          42.6909118
+        ]
+      },
+      "id": "node/2288343514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288360666",
+        "name": "езеро Ариана",
+        "name:en": "Ariana Lake",
+        "railway": "subway_entrance",
+        "ref": "11",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3379571,
+          42.6898354
+        ]
+      },
+      "id": "node/2288360666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288775088",
+        "name": "Национален стадион Васил Левски",
+        "name:en": "Vasil Levski National Stadium",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3323668,
+          42.6863996
+        ]
+      },
+      "id": "node/2288775088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288775094",
+        "entrance": "exit",
+        "name": "ул. Граф Игнатиев",
+        "name:en": "Graf Ignatiev St",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3321817,
+          42.6861675
+        ]
+      },
+      "id": "node/2288775094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292116144",
+        "bicycle": "no",
+        "name": "ул. Добри Немиров",
+        "name:en": "Dobri Nemirov St",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2590622,
+          42.7172966
+        ]
+      },
+      "id": "node/2292116144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2299646045",
+        "name": "Царевецъ",
+        "name:en": "Tsarevets",
+        "railway": "subway_entrance",
+        "ref": "12",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3380348,
+          42.6904623
+        ]
+      },
+      "id": "node/2299646045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2299687942",
+        "name": "бул. Г. М. Димитров",
+        "name:en": "G. M. Dimitrov Blvd",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3577386,
+          42.6635892
+        ]
+      },
+      "id": "node/2299687942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2484741082",
+        "name": "бул. Цар Освободител",
+        "name:en": "Tsar Osvoboditel Blvd",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3347569,
+          42.692528
+        ]
+      },
+      "id": "node/2484741082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2495168508",
+        "name": "ул. Цар Иван Асен II",
+        "name:en": "Tsar Ivan Asen II St",
+        "railway": "subway_entrance",
+        "ref": "13",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3382373,
+          42.6906527
+        ]
+      },
+      "id": "node/2495168508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573892784",
+        "int_name": "Earth and People Museum",
+        "name": "Музей Земята и хората",
+        "name:bg": "Музей Земята и хората",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.321134,
+          42.6801959
+        ]
+      },
+      "id": "node/2573892784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573892785",
+        "int_name": "Earth and People Museum",
+        "name": "Музей Земята и хората",
+        "name:bg": "Музей Земята и хората",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3210661,
+          42.680526
+        ]
+      },
+      "id": "node/2573892785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573892787",
+        "int_name": "Kapitan Andreev St",
+        "name": "ул. Капитан Андреев",
+        "name:bg": "ул. Капитан Андреев",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.321671,
+          42.6805844
+        ]
+      },
+      "id": "node/2573892787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573892788",
+        "int_name": "Kapitan Andreev St",
+        "name": "ул. Капитан Андреев",
+        "name:bg": "ул. Капитан Андреев",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.321739,
+          42.6801581
+        ]
+      },
+      "id": "node/2573892788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608214987",
+        "name": "пл. баба Неделя",
+        "name:en": "Baba Nedelya Sq",
+        "railway": "subway_entrance",
+        "ref": "11",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3175237,
+          42.6859688
+        ]
+      },
+      "id": "node/2608214987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608214988",
+        "name": "Национален дворец на културата",
+        "name:en": "National Palace of Culture",
+        "railway": "subway_entrance",
+        "ref": "8",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3184562,
+          42.6858369
+        ]
+      },
+      "id": "node/2608214988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608214989",
+        "name": "спирка Национален дворец на културата",
+        "name:en": "National Palace of Culture stop",
+        "railway": "subway_entrance",
+        "ref": "10",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3177777,
+          42.6858408
+        ]
+      },
+      "id": "node/2608214989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608214993",
+        "name": "Национален дворец на културата",
+        "name:en": "National Palace of Culture",
+        "railway": "subway_entrance",
+        "ref": "8",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.318644,
+          42.6857521
+        ]
+      },
+      "id": "node/2608214993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608214994",
+        "name": "спирка Национален дворец на културата",
+        "name:en": "National Palace of Culture stop",
+        "railway": "subway_entrance",
+        "ref": "10",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3176674,
+          42.685904
+        ]
+      },
+      "id": "node/2608214994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608214996",
+        "name": "пл. баба Неделя",
+        "name:en": "Baba Nedelya Sq",
+        "railway": "subway_entrance",
+        "ref": "11",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3177556,
+          42.6862131
+        ]
+      },
+      "id": "node/2608214996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2637683886",
+        "access": "permissive",
+        "bicycle": "no",
+        "highway": "elevator",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3011314,
+          42.7282409
+        ]
+      },
+      "id": "node/2637683886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2637683887",
+        "access": "permissive",
+        "bicycle": "no",
+        "highway": "elevator",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3007241,
+          42.7277929
+        ]
+      },
+      "id": "node/2637683887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650832374",
+        "name": "ж.к. Надежда IV",
+        "name:en": "Nadezhda IV",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2933143,
+          42.7352946
+        ]
+      },
+      "id": "node/2650832374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650832382",
+        "name": "ж.к. Връбница I",
+        "name:en": "Vrabnitsa II",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2924483,
+          42.7352452
+        ]
+      },
+      "id": "node/2650832382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650832388",
+        "name": "ж.к. Връбница II",
+        "name:en": "Vrabnitsa II",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2928772,
+          42.7357006
+        ]
+      },
+      "id": "node/2650832388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650832395",
+        "name": "ж.к. Надежда III",
+        "name:en": "Nadezhda III",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2926512,
+          42.7350596
+        ]
+      },
+      "id": "node/2650832395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2903645109",
+        "name": "ж.к. Изток",
+        "name:en": "Iztok",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3509649,
+          42.6716632
+        ]
+      },
+      "id": "node/2903645109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2903645111",
+        "name": "ж.к. Изток",
+        "name:en": "Iztok",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3506036,
+          42.6718994
+        ]
+      },
+      "id": "node/2903645111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2905345103",
+        "highway": "elevator",
+        "level": "0;-1",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3131384,
+          42.7138229
+        ]
+      },
+      "id": "node/2905345103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907542475",
+        "bicycle": "no",
+        "name": "пл. Св. Неделя",
+        "name:en": "Sveta Nedelya Sq",
+        "name:ro": "Piața Sv. Nedelia",
+        "railway": "subway_entrance",
+        "ref": "8",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3221375,
+          42.6975216
+        ]
+      },
+      "id": "node/2907542475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2908002376",
+        "name": "бул. Патриарх Евтимий",
+        "name:en": "Patriarh Evtimiy Blvd",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3192018,
+          42.6886775
+        ]
+      },
+      "id": "node/2908002376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918212897",
+        "name": "ул. Цв. Минков",
+        "name:en": "Tsv. Minkov Str.",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3232674,
+          42.7053519
+        ]
+      },
+      "id": "node/2918212897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918212898",
+        "name": "пл. Лъвов мост",
+        "name:en": "Liosn' Bridge Sq.",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.324536,
+          42.7053031
+        ]
+      },
+      "id": "node/2918212898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918212900",
+        "name": "бул. Сливница",
+        "name:en": "Slivnitsa Blvd.",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3241579,
+          42.7045339
+        ]
+      },
+      "id": "node/2918212900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918231737",
+        "name": "ж.к. Надежда I",
+        "name:en": "Nadezhda I",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3057855,
+          42.7231649
+        ]
+      },
+      "id": "node/2918231737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918432321",
+        "name": "ж.к. Надежда I",
+        "name:en": "Nadezhda I",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3008942,
+          42.7276886
+        ]
+      },
+      "id": "node/2918432321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918432322",
+        "name": "ж.к. Надежда II",
+        "name:en": "Nadezhda II",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3009687,
+          42.7281678
+        ]
+      },
+      "id": "node/2918432322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2935330409",
+        "name": "Надежда II",
+        "name:en": "Nadezha II",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3060787,
+          42.7234612
+        ]
+      },
+      "id": "node/2935330409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2953300684",
+        "name": "кв. Триъгълника",
+        "name:en": "Triagalnika",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3071915,
+          42.7220847
+        ]
+      },
+      "id": "node/2953300684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2994482353",
+        "name": "ж.к. Толстой",
+        "name:en": "Tolstoy",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3075709,
+          42.7223553
+        ]
+      },
+      "id": "node/2994482353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3002634633",
+        "name": "Автогара Сердика",
+        "name:en": "Serdica Bus Station",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.322169,
+          42.7105861
+        ]
+      },
+      "id": "node/3002634633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3007528253",
+        "bicycle": "no",
+        "name": "ж.к. Илинден",
+        "name:en": "Ilinden",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2851429,
+          42.7062585
+        ]
+      },
+      "id": "node/3007528253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3007554131",
+        "bicycle": "no",
+        "name": "ж.к. Гевгелийски",
+        "name:en": "Gevgeliyski",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2831887,
+          42.7067599
+        ]
+      },
+      "id": "node/3007554131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3012572950",
+        "name": "Национален дворец на културата",
+        "name:en": "National Palace of Culture",
+        "railway": "subway_entrance",
+        "ref": "9",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3198079,
+          42.6857072
+        ]
+      },
+      "id": "node/3012572950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3012572953",
+        "name": "Национален дворец на културата",
+        "name:en": "National Palace of Culture",
+        "railway": "subway_entrance",
+        "ref": "9",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3195562,
+          42.6856599
+        ]
+      },
+      "id": "node/3012572953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3072156535",
+        "name": "пл. Бански",
+        "name:en": "Banski Sq",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.322343,
+          42.6992729
+        ]
+      },
+      "id": "node/3072156535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3072156536",
+        "bicycle": "no",
+        "name": "ул. Пиротска",
+        "name:en": "Pirotska St",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3219945,
+          42.6994105
+        ]
+      },
+      "id": "node/3072156536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3093589707",
+        "name": "ул. Братя Миладинови",
+        "name:en": "Bratya Miladinovi St",
+        "railway": "subway_entrance",
+        "ref": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.320159,
+          42.7107116
+        ]
+      },
+      "id": "node/3093589707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3093589708",
+        "name": "спирка Централна гара - Кн. М. Луиза",
+        "name:en": "Central Railway Station - Kn. M. Luisa",
+        "railway": "subway_entrance",
+        "ref": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3200298,
+          42.711189
+        ]
+      },
+      "id": "node/3093589708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3093589709",
+        "name": "спирка Централна гара - Кн. М. Луиза",
+        "name:en": "Central Railway Station - Kn. M. Luisa",
+        "railway": "subway_entrance",
+        "ref": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3199319,
+          42.7110379
+        ]
+      },
+      "id": "node/3093589709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3098101096",
+        "bicycle": "no",
+        "name": "Западна порта",
+        "name:en": "Zapadna porta",
+        "railway": "subway_entrance",
+        "ref": "12",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3195396,
+          42.6984161
+        ]
+      },
+      "id": "node/3098101096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3167571675",
+        "name": "Женски пазар",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3234093,
+          42.7046308
+        ]
+      },
+      "id": "node/3167571675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170811256",
+        "name": "бул. Д-р Петър Дертлиев",
+        "name:en": "Petar Dr. Dertliev Blvd",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2711099,
+          42.7113115
+        ]
+      },
+      "id": "node/3170811256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3233864667",
+        "bicycle": "no",
+        "name": "ул. Княз Борис I",
+        "name:en": "Knyaz Boris I St",
+        "railway": "subway_entrance",
+        "ref": "11",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3193363,
+          42.6980744
+        ]
+      },
+      "id": "node/3233864667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3429417568",
+        "name": "бул. Кръстю Пастухов",
+        "name:en": "Krastyu Pastuhov Blvd",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3946802,
+          42.658925
+        ]
+      },
+      "id": "node/3429417568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3429417574",
+        "name": "ул. Кап. Д. Списаревски",
+        "name:en": "Kapitan D. Spisarevski Blvd",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3947856,
+          42.6601534
+        ]
+      },
+      "id": "node/3429417574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3436711306",
+        "name": "Медицинска техника ЕАД",
+        "name:en": "Meditsinska tehnika EAD",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4029102,
+          42.6691021
+        ]
+      },
+      "id": "node/3436711306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3635987352",
+        "name": "кв. Лозенец",
+        "name:en": "Lozenets",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3195815,
+          42.6693777
+        ]
+      },
+      "id": "node/3635987352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3635987356",
+        "name": "ул. Майор Томпсън",
+        "name:en": "Major Thompson Str.",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3199129,
+          42.6692828
+        ]
+      },
+      "id": "node/3635987356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3656054336",
+        "name": "Терминал 2",
+        "name:en": "Terminal 2",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4158451,
+          42.6885264
+        ]
+      },
+      "id": "node/3656054336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3678144290",
+        "int_name": "Arsenalski Blvd",
+        "name": "бул. Арсеналски",
+        "name:bg": "бул. Арсеналски",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3214018,
+          42.6786651
+        ]
+      },
+      "id": "node/3678144290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3678144292",
+        "int_name": "Krum Popov St",
+        "name": "ул. Крум Попов",
+        "name:bg": "ул. Крум Попов",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3219142,
+          42.6788998
+        ]
+      },
+      "id": "node/3678144292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3678144296",
+        "int_name": "hotel hemus",
+        "name": "хотел Хемус",
+        "name:bg": "хотел Хемус",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3221056,
+          42.6782806
+        ]
+      },
+      "id": "node/3678144296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3678144297",
+        "int_name": "Lozenets",
+        "name": "кв. Лозенец",
+        "name:bg": "кв. Лозенец",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3214872,
+          42.6782794
+        ]
+      },
+      "id": "node/3678144297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4140681820",
+        "bicycle": "no",
+        "name": "ЦУМ",
+        "name:en": "TZUM",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3234918,
+          42.6977639
+        ]
+      },
+      "id": "node/4140681820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4164105608",
+        "name": "кв. Горна баня",
+        "name:en": "Gorna banya",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2410026,
+          42.6815431
+        ]
+      },
+      "id": "node/4164105608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170026191",
+        "name": "бул. Джеймс Баучер",
+        "name:en": "James Bourchier Blvd.",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3209966,
+          42.6709735
+        ]
+      },
+      "id": "node/4170026191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170026192",
+        "name": "ул. Златен рог",
+        "name:en": "Zlaten Rog Str.",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3203365,
+          42.6711457
+        ]
+      },
+      "id": "node/4170026192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4230951341",
+        "name": "ж.к. Дружба II",
+        "name:en": "Druzhba II",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3964665,
+          42.6505201
+        ]
+      },
+      "id": "node/4230951341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332862258",
+        "level": "-1",
+        "name": "Търговски център",
+        "name:en": "Shopping centre",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3157189,
+          42.6570332
+        ]
+      },
+      "id": "node/4332862258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332862259",
+        "name": "ул. Филип Кутев",
+        "name:en": "Filip Kutev St",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3161931,
+          42.6571517
+        ]
+      },
+      "id": "node/4332862259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332862260",
+        "elevator": "wheelchair",
+        "name": "ул. Хенрик Ибсен",
+        "name:en": "Henrik Ibsen St",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3162423,
+          42.6587867
+        ]
+      },
+      "id": "node/4332862260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332862261",
+        "name": "ул. Сребърна",
+        "name:en": "Srebarna St",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3166622,
+          42.6592779
+        ]
+      },
+      "id": "node/4332862261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332862262",
+        "elevator": "wheelchair",
+        "name": "кв. Хладилника",
+        "name:en": "Hladilnika",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3163138,
+          42.659467
+        ]
+      },
+      "id": "node/4332862262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332862263",
+        "elevator": "wheelchair",
+        "name": "бул. Черни връх",
+        "name:en": "Cherni vrah Blvd",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3168905,
+          42.6596941
+        ]
+      },
+      "id": "node/4332862263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4344969272",
+        "name": "бул. Андрей Сахаров",
+        "name:en": "Andrey Sakharov Blvd",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3720385,
+          42.6537251
+        ]
+      },
+      "id": "node/4344969272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4344969276",
+        "name": "ул. Йерусалим",
+        "name:en": "Jerusalem St",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.372383,
+          42.6538502
+        ]
+      },
+      "id": "node/4344969276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4344969290",
+        "name": "Онкологичен диспансер",
+        "name:en": "Oncology Clinic",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3718392,
+          42.6542154
+        ]
+      },
+      "id": "node/4344969290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384491275",
+        "name": "бул. Андрей Ляпчев",
+        "name:en": "Andrey Lyapchev Blvd",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3765958,
+          42.6478721
+        ]
+      },
+      "id": "node/4384491275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523977210",
+        "name": "ул. Тодор Каблешков",
+        "name:en": "Todor Kableshkov St",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3156092,
+          42.6569581
+        ]
+      },
+      "id": "node/4523977210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4883341847",
+        "name": "ж.к. Връбница I",
+        "name:en": "Vrabnitsa 1",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2874244,
+          42.7400815
+        ]
+      },
+      "id": "node/4883341847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4883341848",
+        "name": "бул. Ломско шосе",
+        "name:en": "Lomsko shose Blvd.",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2868313,
+          42.7403256
+        ]
+      },
+      "id": "node/4883341848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4883341849",
+        "name": "ж.к. Връбница 2",
+        "name:en": "Vrabnitsa II",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2877715,
+          42.7403384
+        ]
+      },
+      "id": "node/4883341849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4883341850",
+        "name": "ул. Острова",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.287555,
+          42.7408458
+        ]
+      },
+      "id": "node/4883341850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894764102",
+        "name": "ул. Беласица",
+        "name:en": "Belasitsa St",
+        "railway": "subway_entrance",
+        "ref": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3186498,
+          42.711371
+        ]
+      },
+      "id": "node/4894764102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894764103",
+        "name": "ул. Беласица",
+        "name:en": "Belasitsa St",
+        "railway": "subway_entrance",
+        "ref": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3187705,
+          42.7111167
+        ]
+      },
+      "id": "node/4894764103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894777294",
+        "name": "бул. Христо Ботев",
+        "name:en": "Hristo Botev Blvd",
+        "railway": "subway_entrance",
+        "ref": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3192374,
+          42.7108173
+        ]
+      },
+      "id": "node/4894777294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4914401867",
+        "bicycle": "no",
+        "name": "ул. Трапезица",
+        "name:en": "Trapezitsa St",
+        "railway": "subway_entrance",
+        "ref": "10",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3216264,
+          42.6981322
+        ]
+      },
+      "id": "node/4914401867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947500060",
+        "name": "ул. Струга",
+        "name:en": "Struga St",
+        "railway": "subway_entrance",
+        "ref": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.322011,
+          42.7100633
+        ]
+      },
+      "id": "node/4947500060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947500105",
+        "name": "бул. Ген. Д. Николаев",
+        "name:en": "Gen. D. Nikolaev Blvd",
+        "railway": "subway_entrance",
+        "ref": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3228246,
+          42.7096712
+        ]
+      },
+      "id": "node/4947500105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975210575",
+        "name": "Княжеска градина",
+        "name:en": "Knyazheska gradina",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3358118,
+          42.6915734
+        ]
+      },
+      "id": "node/4975210575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4989802651",
+        "bicycle": "no",
+        "name": "Антична Сердика",
+        "name:en": "Ancient Serdica",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3222572,
+          42.6980904
+        ]
+      },
+      "id": "node/4989802651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5143887409",
+        "highway": "elevator",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3135677,
+          42.7142965
+        ]
+      },
+      "id": "node/5143887409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5143887410",
+        "highway": "elevator",
+        "level": "0;-1",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3127185,
+          42.7146007
+        ]
+      },
+      "id": "node/5143887410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592841746",
+        "name": "бул. Александър Малинов",
+        "name:en": "Aleksandar Malinov Blvd",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3769221,
+          42.6477929
+        ]
+      },
+      "id": "node/5592841746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592841753",
+        "name": "ж.к. Младост I",
+        "name:en": "Mladost I",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3769192,
+          42.6483857
+        ]
+      },
+      "id": "node/5592841753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592841754",
+        "name": "ж.к. Младост Iа",
+        "name:en": "Mladost Ia",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3772225,
+          42.6482979
+        ]
+      },
+      "id": "node/5592841754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592847176",
+        "name": "ж.к. Младост III",
+        "name:en": "Mladost III",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3761787,
+          42.6465227
+        ]
+      },
+      "id": "node/5592847176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592847177",
+        "name": "ж.к. Младост II",
+        "name:en": "Mladost II",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3758395,
+          42.6466341
+        ]
+      },
+      "id": "node/5592847177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5744349187",
+        "name": "бул. Пенчо Славейков",
+        "name:en": "Pencho Slaveykov Blvd",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3104825,
+          42.6867618
+        ]
+      },
+      "id": "node/5744349187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5744349188",
+        "name": "кв. Крива река",
+        "name:en": "Kriva reka",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3100803,
+          42.6871023
+        ]
+      },
+      "id": "node/5744349188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5744349189",
+        "bicycle": "no",
+        "name": "ул. Константин Иречек",
+        "name:en": "Konstantin Jireček St",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3078258,
+          42.6863418
+        ]
+      },
+      "id": "node/5744349189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776776232",
+        "level": "0",
+        "name": "кино Одеон",
+        "name:en": "kino Odeon",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3285398,
+          42.6879748
+        ]
+      },
+      "id": "node/5776776232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5890693894",
+        "name": "бул. Княгина Мария Луиза",
+        "name:en": "Knyaginya Maria Luisa Blvd",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3204872,
+          42.7112584
+        ]
+      },
+      "id": "node/5890693894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5890693897",
+        "name": "пл. Предгаров",
+        "name:en": "Predgarov Sq",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3208324,
+          42.7117506
+        ]
+      },
+      "id": "node/5890693897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5967338207",
+        "name": "ул. Граф Игнатиев",
+        "name:en": "Graf Ignatyev St",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32886,
+          42.6879681
+        ]
+      },
+      "id": "node/5967338207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6003125202",
+        "name": "бул. Монтевидео",
+        "name:bg": "бул. Монтевидео",
+        "name:en": "Montevideo Blvd,",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2558635,
+          42.6841405
+        ]
+      },
+      "id": "node/6003125202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6003125203",
+        "name": "XXI ДКЦ",
+        "name:bg": "XXI ДКЦ",
+        "name:en": "XXI Polyclinic",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2556886,
+          42.683384
+        ]
+      },
+      "id": "node/6003125203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6025958862",
+        "name": "Парк Заимов",
+        "name:en": "Zaimov Park",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3465904,
+          42.6966409
+        ]
+      },
+      "id": "node/6025958862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6049973752",
+        "name": "МБАЛ Доверие",
+        "name:en": "Doverie Hospital",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2478545,
+          42.6844927
+        ]
+      },
+      "id": "node/6049973752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6096978161",
+        "name": "бул. Прага",
+        "name:en": "Praha Blvd",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3107379,
+          42.6870585
+        ]
+      },
+      "id": "node/6096978161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6260778542",
+        "access": "yes",
+        "highway": "elevator",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3104002,
+          42.7000187
+        ]
+      },
+      "id": "node/6260778542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6270885719",
+        "bicycle": "no",
+        "name": "ж.к. Люлин VI",
+        "name:en": "Lyulin VI",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2567739,
+          42.7183441
+        ]
+      },
+      "id": "node/6270885719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6296597249",
+        "name": "бул. Цар Борис III",
+        "name:en": "Tsar Boris III Blvd.",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2842195,
+          42.6787145
+        ]
+      },
+      "id": "node/6296597249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6296597250",
+        "name": "ж.к. Лагера",
+        "name:en": "Lagera",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2850828,
+          42.6791578
+        ]
+      },
+      "id": "node/6296597250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6368940462",
+        "name": "Централна автогара",
+        "name:en": "Central Bus Station",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3228721,
+          42.7106106
+        ]
+      },
+      "id": "node/6368940462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6368940464",
+        "name": "ул. Струга",
+        "name:en": "Struga St",
+        "railway": "subway_entrance",
+        "ref": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3220893,
+          42.7099328
+        ]
+      },
+      "id": "node/6368940464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6368940467",
+        "name": "спирка Централна гара - Кн. М. Луиза",
+        "name:en": "Central Railway Station - Kn. M. Luisa",
+        "railway": "subway_entrance",
+        "ref": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3198161,
+          42.7112645
+        ]
+      },
+      "id": "node/6368940467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6368940468",
+        "name": "спирка Централна гара - Кн. М. Луиза",
+        "name:en": "Central Railway Station - Kn. M. Luisa",
+        "railway": "subway_entrance",
+        "ref": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3197222,
+          42.7111147
+        ]
+      },
+      "id": "node/6368940468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6368940469",
+        "name": "Централна жп гара",
+        "name:en": "Central Railway Station",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.320532,
+          42.7122208
+        ]
+      },
+      "id": "node/6368940469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6368940471",
+        "name": "Каса на Централна жп гара",
+        "name:en": "Central Railway Station Ticket Hall",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3207897,
+          42.7121685
+        ]
+      },
+      "id": "node/6368940471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6384863049",
+        "name": "ж.к. Младост I",
+        "name:en": "Mladost I",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3736388,
+          42.6529997
+        ]
+      },
+      "id": "node/6384863049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6384863051",
+        "name": "пазар Младост",
+        "name:en": "Mladost market",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.373555,
+          42.6526764
+        ]
+      },
+      "id": "node/6384863051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386726923",
+        "name": "ул. Акад. Ал. Теодоров-Балан",
+        "name:en": "Akademik Al. Teodorov-Balan St",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3726541,
+          42.6413122
+        ]
+      },
+      "id": "node/6386726923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386726929",
+        "name": "ж.к. Младост I",
+        "name:en": "Mladost I",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3726972,
+          42.6415551
+        ]
+      },
+      "id": "node/6386726929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386726930",
+        "name": "ул. Д-р Атанас Москов",
+        "name:en": "Doktor Atanas Moskov St",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.37326,
+          42.6414462
+        ]
+      },
+      "id": "node/6386726930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386726931",
+        "name": "бул. Александър Малинов",
+        "name:en": "Aleksandar Malinov Blvd",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.373224,
+          42.6410132
+        ]
+      },
+      "id": "node/6386726931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386726933",
+        "name": "ж.к. Младост III",
+        "name:en": "Mladost III",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3731587,
+          42.6396709
+        ]
+      },
+      "id": "node/6386726933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386726938",
+        "name": "ж.к. Младост II",
+        "name:en": "Mladost II",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3727964,
+          42.6396699
+        ]
+      },
+      "id": "node/6386726938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386747199",
+        "name": "ул. Самара",
+        "name:en": "Samara St",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3733883,
+          42.6300499
+        ]
+      },
+      "id": "node/6386747199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386747200",
+        "name": "ул. арх. Б. Томалевски",
+        "name:en": "arhitekt B. Tomalevski St",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3728529,
+          42.6299575
+        ]
+      },
+      "id": "node/6386747200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386747202",
+        "name": "бул. Александър Малинов",
+        "name:en": "Aleksandar Malinov Blvd",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.372816,
+          42.6285592
+        ]
+      },
+      "id": "node/6386747202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386747203",
+        "name": "Бизнес парк",
+        "name:en": "Business Park",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3734489,
+          42.6288008
+        ]
+      },
+      "id": "node/6386747203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387218147",
+        "name": "ж.к. Младост III",
+        "name:en": "Mladost III",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3825338,
+          42.6466511
+        ]
+      },
+      "id": "node/6387218147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387218149",
+        "name": "ж.к. Младост Iа",
+        "name:en": "Mladost Ia",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3826166,
+          42.6468997
+        ]
+      },
+      "id": "node/6387218149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387218150",
+        "name": "ул. Жечо Гюмюшев",
+        "name:en": "Zhecho Gyumushev St",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3847037,
+          42.646151
+        ]
+      },
+      "id": "node/6387218150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387218151",
+        "name": "бул. Андрей Ляпчев",
+        "name:en": "Andrey Lyapchev Blvd",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3848056,
+          42.6464094
+        ]
+      },
+      "id": "node/6387218151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387235902",
+        "name": "Интер Експо Център",
+        "name:en": "Inter Expo Center",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.393897,
+          42.6498059
+        ]
+      },
+      "id": "node/6387235902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387235904",
+        "name": "Комплекс на БАН",
+        "name:en": "Complex of BAS",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.393217,
+          42.6494784
+        ]
+      },
+      "id": "node/6387235904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387235906",
+        "name": "бул. Цариградско шосе",
+        "name:en": "Tsarigradsko shose Blvd",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3936368,
+          42.6491144
+        ]
+      },
+      "id": "node/6387235906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387259354",
+        "name": "ж.к. Дружба I",
+        "name:en": "Druzhba I",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3952475,
+          42.6600071
+        ]
+      },
+      "id": "node/6387259354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387259356",
+        "name": "Търговски център",
+        "name:en": "Shopping centre",
+        "railway": "subway_entrance",
+        "ref": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3942685,
+          42.6581581
+        ]
+      },
+      "id": "node/6387259356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387259358",
+        "name": "бул. Проф. Цв. Лазаров",
+        "name:en": "Profesor Tsvetan Lazarov Blvd",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3945072,
+          42.6581295
+        ]
+      },
+      "id": "node/6387259358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387259364",
+        "name": "ж.к. Дружба II",
+        "name:en": "Druzhba II",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3946386,
+          42.6572251
+        ]
+      },
+      "id": "node/6387259364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387259365",
+        "name": "ул. Обиколна",
+        "name:en": "Obikolna St",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3942725,
+          42.657087
+        ]
+      },
+      "id": "node/6387259365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387292677",
+        "name": "НПЗ Искър",
+        "name:en": "Iskar Industrial zone",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4032877,
+          42.6698883
+        ]
+      },
+      "id": "node/6387292677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387292678",
+        "name": "жп спирка Искърско шосе",
+        "name:en": "Iskarsko shose Railway Station",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4028559,
+          42.6698582
+        ]
+      },
+      "id": "node/6387292678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387292680",
+        "name": "жп спирка Искърско шосе",
+        "name:en": "Iskarsko shose Railway Station",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4031117,
+          42.6696827
+        ]
+      },
+      "id": "node/6387292680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387292988",
+        "name": "бул. Искърско шосе",
+        "name:en": "Iskarsko shose Blvd",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4020368,
+          42.6685314
+        ]
+      },
+      "id": "node/6387292988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387292990",
+        "name": "бул. Кръстю Пастухов",
+        "name:en": "Krastyu Pastuhov Blvd",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4022956,
+          42.6677894
+        ]
+      },
+      "id": "node/6387292990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387292994",
+        "name": "ж.к. Дружба I",
+        "name:en": "Druzhba I",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4018792,
+          42.6679918
+        ]
+      },
+      "id": "node/6387292994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387318650",
+        "name": "ул. Подполковник Йордан Тодоров",
+        "name:en": "Podpolkovnik Yordan Todorov St",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4105676,
+          42.6765087
+        ]
+      },
+      "id": "node/6387318650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387318651",
+        "name": "ул. Подполковник Йордан Тодоров",
+        "name:en": "Podpolkovnik Yordan Todorov St",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4101331,
+          42.676138
+        ]
+      },
+      "id": "node/6387318651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387318652",
+        "name": "ул. Подполковник Васил Златарев",
+        "name:en": "Podpolkovnik Vasil Zlatarev St",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4103027,
+          42.6766708
+        ]
+      },
+      "id": "node/6387318652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387318653",
+        "name": "ул. Подполковник Васил Златарев",
+        "name:en": "Podpolkovnik Vasil Zlatarev St",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4098575,
+          42.676306
+        ]
+      },
+      "id": "node/6387318653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6412267503",
+        "layer": "-1",
+        "level": "-1",
+        "name": "спирка НДК-тунел",
+        "name:en": "Ntnl Palace of Culture-tunnel stop",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3186983,
+          42.6859757
+        ]
+      },
+      "id": "node/6412267503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6412267504",
+        "layer": "-1",
+        "level": "-1",
+        "name": "спирка НДК-тунел",
+        "name:en": "Ntnl Palace of Culture-tunnel stop",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3186864,
+          42.6859357
+        ]
+      },
+      "id": "node/6412267504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448393447",
+        "name": "ул. Гургулят",
+        "name:en": "Gurgulyat St",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3187774,
+          42.6887384
+        ]
+      },
+      "id": "node/6448393447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6472306353",
+        "int_name": "Peta gradska bolnitsa",
+        "level": "0",
+        "name": "Пета градска болница",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3134435,
+          42.7136945
+        ]
+      },
+      "id": "node/6472306353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578696746",
+        "name": "кв. Овча купел",
+        "name:en": "Ovcha kupel",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2708523,
+          42.6826933
+        ]
+      },
+      "id": "node/6578696746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578696747",
+        "name": "Овча купел I",
+        "name:bg": "Овча купел I",
+        "name:en": "Ovcha kupel I",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2693509,
+          42.6836203
+        ]
+      },
+      "id": "node/6578696747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6811304926",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2410202,
+          42.6823542
+        ]
+      },
+      "id": "node/6811304926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6815115084",
+        "name": "бул. Гоце Делчев",
+        "name:en": "Gotse Delchev Blvd.",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2853301,
+          42.6786533
+        ]
+      },
+      "id": "node/6815115084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6821133297",
+        "name": "ж.к. Овча купел II",
+        "name:en": "Ovcha kupel II",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2479549,
+          42.6848738
+        ]
+      },
+      "id": "node/6821133297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6907881228",
+        "name": "ж.к. Красно село",
+        "name:en": "Krasno selo",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2852195,
+          42.6782619
+        ]
+      },
+      "id": "node/6907881228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7485324054",
+        "level": "0",
+        "name": "пл. Патриарх Евтимий",
+        "name:en": "Patriarh Evtimiy Sq",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3282242,
+          42.688243
+        ]
+      },
+      "id": "node/7485324054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7485324062",
+        "access": "emergency",
+        "description": "Служебен вход/изход. Заключен. / Staff only entrance / exit.",
+        "entrance": "service",
+        "level": "0",
+        "locked": "yes",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3267596,
+          42.6883683
+        ]
+      },
+      "id": "node/7485324062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7847449221",
+        "name": "ул. Княз Борис I",
+        "name:en": "Knyaz Boris I St",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3166318,
+          42.6891453
+        ]
+      },
+      "id": "node/7847449221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7847449222",
+        "name": "ул. Цар Самуил",
+        "name:en": "Tsar Samuil St",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3163435,
+          42.6893662
+        ]
+      },
+      "id": "node/7847449222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8038147171",
+        "name": "Овча купел I",
+        "name:bg": "Овча купел I",
+        "name:en": "Ovcha kupel I",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2561525,
+          42.6841655
+        ]
+      },
+      "id": "node/8038147171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8040875606",
+        "name": "ж.п. спирка Овча купел",
+        "name:en": "Ovcha kupel Railway Station",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2405271,
+          42.6819494
+        ]
+      },
+      "id": "node/8040875606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8040875613",
+        "name": "ж.к. Овча купел II",
+        "name:en": "Ovcha kupel II",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2418926,
+          42.6832808
+        ]
+      },
+      "id": "node/8040875613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8174730851",
+        "name": "88 СУ \"Димитър Попниколов\"",
+        "name:bg": "88 СУ \"Димитър Попниколов\"",
+        "name:en": "88 Dimitar Popnikolov School",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2580945,
+          42.6841527
+        ]
+      },
+      "id": "node/8174730851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8174730852",
+        "name": "кв. Бузема",
+        "name:bg": "кв. Бузема",
+        "name:en": "Buzema",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2581769,
+          42.6839169
+        ]
+      },
+      "id": "node/8174730852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8191646368",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3505178,
+          42.671548
+        ]
+      },
+      "id": "node/8191646368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8344589225",
+        "name": "ж.к. Дианабад",
+        "name:en": "Dianabad",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3569608,
+          42.6635981
+        ]
+      },
+      "id": "node/8344589225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8378368280",
+        "name": "бул. Витоша",
+        "name:en": "Vitosha Blvd",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.319161,
+          42.689218
+        ]
+      },
+      "id": "node/8378368280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8611192486",
+        "name": "УМБАЛ \"Александровска\"",
+        "name:en": "Aleksandrovska Hospital",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.308304,
+          42.6861901
+        ]
+      },
+      "id": "node/8611192486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8614762549",
+        "name": "ул. Кюстендил",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3011982,
+          42.6794245
+        ]
+      },
+      "id": "node/8614762549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8614762557",
+        "name": "ж.к. Хиподрума",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3020708,
+          42.6796668
+        ]
+      },
+      "id": "node/8614762557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8668102870",
+        "name": "ул. Александър Геров",
+        "name:en": "Aleksandar Gerov Str.",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2714938,
+          42.6823258
+        ]
+      },
+      "id": "node/8668102870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9205706094",
+        "name": "бул. Овча купел",
+        "name:en": "Ovcha kupel Blvd.",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2710113,
+          42.6828745
+        ]
+      },
+      "id": "node/9205706094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9205706095",
+        "name": "бул. Президент Линкълн",
+        "name:en": "Prezident Lincoln Blvd.",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2695037,
+          42.6837416
+        ]
+      },
+      "id": "node/9205706095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9261848349",
+        "highway": "elevator",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3123809,
+          42.7140459
+        ]
+      },
+      "id": "node/9261848349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9261848350",
+        "int_name": "Banishora",
+        "name": "ж.к. Банишора",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3120329,
+          42.7141132
+        ]
+      },
+      "id": "node/9261848350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9261848351",
+        "int_name": "Knyaginya Mariya Luiza Blvd",
+        "name": "бул. Княгиня Мария Луиза",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3138852,
+          42.7141758
+        ]
+      },
+      "id": "node/9261848351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9261848353",
+        "int_name": "Nadlez Nadezhda",
+        "name": "Надлез Надежда",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3124026,
+          42.7147188
+        ]
+      },
+      "id": "node/9261848353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9349575469",
+        "level": "0",
+        "name": "ж.к. Хаджи Димитър",
+        "name:en": "Hadzhi Dimitar",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3523116,
+          42.7030231
+        ]
+      },
+      "id": "node/9349575469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9349575471",
+        "highway": "elevator",
+        "level": "0;-1",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3521433,
+          42.7029288
+        ]
+      },
+      "id": "node/9349575471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460132733",
+        "name": "ул. Бойчо Бойчев",
+        "name:en": "Boycho Boichev Str,",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2411514,
+          42.6826111
+        ]
+      },
+      "id": "node/9460132733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9534611124",
+        "bicycle": "yes",
+        "name": "ж.к. Илинден",
+        "name:en": "Ilinden",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2851783,
+          42.7062373
+        ]
+      },
+      "id": "node/9534611124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9534611133",
+        "bicycle": "yes",
+        "name": "бул. Т. Александров",
+        "name:en": "T. Aleksandrov Blvd",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2853364,
+          42.7054695
+        ]
+      },
+      "id": "node/9534611133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9549630274",
+        "int_name": "Suhata reka",
+        "level": "0",
+        "name": "ж.к. Сухата река",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3528383,
+          42.7026703
+        ]
+      },
+      "id": "node/9549630274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9549630292",
+        "highway": "elevator",
+        "level": "0;-1",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3525768,
+          42.7025735
+        ]
+      },
+      "id": "node/9549630292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9549630296",
+        "level": "0",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3525967,
+          42.702587
+        ]
+      },
+      "id": "node/9549630296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895727840",
+        "highway": "elevator",
+        "level": "0;-1",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2562028,
+          42.6840109
+        ]
+      },
+      "id": "node/9895727840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895727841",
+        "highway": "elevator",
+        "level": "0;-1",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.256134,
+          42.683621
+        ]
+      },
+      "id": "node/9895727841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895727843",
+        "name": "ул. 761",
+        "name:bg": "ул. 761",
+        "name:en": "761 St",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2562938,
+          42.6836399
+        ]
+      },
+      "id": "node/9895727843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10064113084",
+        "bicycle": "no",
+        "name": "ж.к. Люлин VIII",
+        "name:en": "Lyulin VIIII",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2611866,
+          42.7257289
+        ]
+      },
+      "id": "node/10064113084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10572304371",
+        "name": "Княжеска градина",
+        "name:en": "Knyazheska gradina",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3364149,
+          42.6909221
+        ]
+      },
+      "id": "node/10572304371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10584728635",
+        "door": "sliding",
+        "name": "ж.к. Дианабад",
+        "name:en": "Dianabad",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3568305,
+          42.6635454
+        ]
+      },
+      "id": "node/10584728635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10599261973",
+        "name": "езеро Ариана",
+        "name:en": "Ariana Lake",
+        "railway": "subway_entrance",
+        "ref": "11",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3380161,
+          42.6898433
+        ]
+      },
+      "id": "node/10599261973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10599261975",
+        "name": "Царевецъ",
+        "name:en": "Tsarevets",
+        "railway": "subway_entrance",
+        "ref": "12",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3380068,
+          42.6904369
+        ]
+      },
+      "id": "node/10599261975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10712527370",
+        "name": "пл. България",
+        "name:en": "Bulgaria Sq",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3188599,
+          42.6863902
+        ]
+      },
+      "id": "node/10712527370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10712527371",
+        "name": "пл. България",
+        "name:en": "Bulgaria Sq",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3189016,
+          42.6863867
+        ]
+      },
+      "id": "node/10712527371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10712527375",
+        "name": "пл. България",
+        "name:en": "Bulgaria Sq",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3189167,
+          42.6863855
+        ]
+      },
+      "id": "node/10712527375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10852954539",
+        "name": "XXVII ДКЦ",
+        "name:en": "XXVII Polyclinic",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3473444,
+          42.6974708
+        ]
+      },
+      "id": "node/10852954539"
+    }
+  ]
+}
